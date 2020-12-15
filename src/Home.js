@@ -49,6 +49,13 @@ function Home() {
             rating={4}
             image="https://images-na.ssl-images-amazon.com/images/I/816ctt5WV5L._AC_SY385_.jpg"
           />
+          <Product
+            id="7254358345"
+            title="Acer Aspire 5 Slim Laptop, 15.6 inches Full HD IPS Display, AMD Ryzen 3 3200U"
+            price={475.0}
+            rating={4}
+            image="https://images-na.ssl-images-amazon.com/images/I/71vvXGmdKWL._AC_SX679_.jpg"
+          />
         </div>
         <div className="home__row">
           <Product
