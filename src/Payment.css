@@ -70,3 +70,13 @@
 .payment__priceContainer > h3 > .priceContainer__amount {
   color: #0066c0;
 }
+
+/* Media Query */
+@media (max-width: 600px) {
+  .payment__section {
+    flex-direction: column;
+  }
+  .payment__title {
+    margin-bottom: 10px;
+  }
+}
